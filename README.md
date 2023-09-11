@@ -1,5 +1,5 @@
 # PhotonicsCrystals
-Graphics Rendering
+Graphics Rendering Software
 C
 #include <graphics.h>
 
